@@ -4,6 +4,6 @@ I am junior Full Stack Developer with a paired interest in green-coding, making,
 
 Projects I made:
 
-[![forthebadge Soil Tracker](https://github.com/zikaden/Soil-Tracker/blob/main/client/src/assets/badge_logo.png](https://wrbsoiltracker.herokuapp.com/)
+[![forthebadge Soil Tracker](https://raw.githubusercontent.com/zikaden/Soil-Tracker/main/client/src/assets/badge_logo.png?token=GHSAT0AAAAAABYNPLDQV7PGJQGLYZUVFKHYYYXSBGA)(https://wrbsoiltracker.herokuapp.com/)
 
 
