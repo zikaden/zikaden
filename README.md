@@ -1,4 +1,4 @@
-# Hi there
+### Hi there
 
 I am a student of JS with a paired interest in green-coding, making, boardgaming and PCB-art.
 
