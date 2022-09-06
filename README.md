@@ -10,10 +10,11 @@ Projects I made:
 
 [![forthebadge toastgame](https://raw.githubusercontent.com/zikaden/Toast-Game/master/assets/badge_logo.png)](https://zikaden.github.io/Toast-Game/)
 
---
+
 
 ## Skills
 
 ### Languages
-![github](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
-# Front-End Development
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
+
+### Front-End Development
