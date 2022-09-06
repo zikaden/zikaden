@@ -1,4 +1,4 @@
-### Hi there!
+# Hi there!
 
 I am junior Full Stack Developer with a paired interest in green-coding, making, boardgaming and PCB-art.
 
@@ -14,6 +14,6 @@ Projects I made:
 
 ## Skills
 
-# Languages
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+### Languages
+![github](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
 # Front-End Development
