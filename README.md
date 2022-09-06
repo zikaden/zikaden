@@ -1,8 +1,8 @@
 ## Hi there!
 
-I am Junior Full Stack Developer with a paired interest in green-coding, making, boardgaming and PCB-art.
+I am Junior Full Stack Developer with a paired interest in green-coding, making, boardgaming and PCB-art. 
 
-### Projects I made:
+Some projects I made:
 
 [![forthebadge soiltracker](https://raw.githubusercontent.com/zikaden/Soil-Tracker/main/client/src/assets/badge_logo.png?token=GHSAT0AAAAAABYNPLDRZV2SEXRNBSH5LIEIYYXS34Q)](https://wrbsoiltracker.herokuapp.com/)
 
