@@ -1,4 +1,4 @@
-### Hi there!
+title: Hi there!
 
 I am junior Full Stack Developer with a paired interest in green-coding, making, boardgaming and PCB-art.
 
@@ -10,4 +10,7 @@ Projects I made:
 
 [![forthebadge toastgame](https://raw.githubusercontent.com/zikaden/Toast-Game/master/assets/badge_logo.png)](https://zikaden.github.io/Toast-Game/)
 
+---
+
+##Skills
 
