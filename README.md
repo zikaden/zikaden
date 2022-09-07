@@ -1,8 +1,7 @@
 ## Hi there!
 
 I am Junior Full Stack Developer with a paired interest in green-coding, making, boardgaming and PCB-art. 
-Feel free to follow me on 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+Feel free to follow me on ![forthebadge Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bingmachine/?hl=en)
 
 Some projects I made:
 
