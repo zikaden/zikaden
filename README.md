@@ -1,8 +1,8 @@
 ## Hi there!
 
 I am Junior Full Stack Developer with a paired interest in green-coding, making, boardgaming and PCB-art. 
-Feel free to follow me on [![forthebadge instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/bingmachine/?hl=en)
-
+Feel free to follow me on 
+[![forthebadge instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://wrbsoiltracker.herokuapp.com/)
 
 
 Some projects I made:
