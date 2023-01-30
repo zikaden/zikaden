@@ -4,7 +4,7 @@ I am Junior Full Stack Developer with a paired interest in green-coding, making,
 
 Some projects I made:
 
-[![forthebadge soiltracker](https://raw.githubusercontent.com/zikaden/Soil-Tracker/main/client/src/assets/badge_logo.png?token=GHSAT0AAAAAABYNPLDRZV2SEXRNBSH5LIEIYYXS34Q)](https://wrbsoiltracker.herokuapp.com/)
+[![forthebadge navbars](https://raw.githubusercontent.com/zikaden/navbar_tailwimd_examples/master/public/badge_navbars.png](https://tailwindnavbars.netlify.app/)
 
 [![forthebadge co2tamagotchi](https://raw.githubusercontent.com/zikaden/CO2_Tamagotchi/master/public/images/badge_logo.png)](https://co2tamagotchiapp.herokuapp.com/)
 
