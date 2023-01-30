@@ -7,7 +7,7 @@ Some projects I made:
 
 [![forthebadge co2tamagotchi](https://raw.githubusercontent.com/zikaden/CO2_Tamagotchi/master/public/images/badge_logo.png)](https://co2tamagotchiapp.herokuapp.com/)
 
-[![forthebadge toastgame](https://raw.githubusercontent.com/zikaden/Toast-Game/master/assets/badge_logo.png)](https://zikaden.github.io/Toast-Game/)
+[![forthebadge toastgame](https://raw.githubusercontent.com/zikaden/Toast-Game/master/assets/badge_toastgame.png)](https://zikaden.github.io/Toast-Game/)
 
 
 
