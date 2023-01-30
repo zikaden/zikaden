@@ -4,7 +4,7 @@ I am Junior Full Stack Developer with a paired interest in green-coding, making,
 
 Some projects I made:
 
-[![forthebadge navbars](https://raw.githubusercontent.com/zikaden/navbar_tailwimd_examples/public/badge_navbars.png](https://tailwindnavbars.netlify.app/)
+[![forthebadge navbars](https://github.com/zikaden/navbar_tailwimd_examples/blob/main/public/badge_navbars.png](https://tailwindnavbars.netlify.app/)
 
 [![forthebadge co2tamagotchi](https://raw.githubusercontent.com/zikaden/CO2_Tamagotchi/master/public/images/badge_logo.png)](https://co2tamagotchiapp.herokuapp.com/)
 
