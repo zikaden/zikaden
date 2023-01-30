@@ -2,13 +2,6 @@
 
 I am Junior Full Stack Developer with a paired interest in green-coding, making, boardgaming and PCB-art. 
 
-Some projects I made:
-
-
-[![forthebadge co2tamagotchi](https://raw.githubusercontent.com/zikaden/CO2_Tamagotchi/master/public/images/badge_co2tamagotchi.png)](https://co2tamagotchiapp.herokuapp.com/)
-
-[![forthebadge toastgame](https://raw.githubusercontent.com/zikaden/Toast-Game/master/assets/badge_toastgame.png)](https://zikaden.github.io/Toast-Game/)
-
 
 
 ## Skills
