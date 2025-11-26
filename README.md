@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am Full Stack Developer with a paired interest in green-coding, making, boardgaming and PCB-art. 
+I am Prototyper with a paired interest in green-coding, making, boardgaming and PCB-art. 
 
 
 
